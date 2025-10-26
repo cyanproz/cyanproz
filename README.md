@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyanProz
+- 👋 Hi, I’m @cyanproz
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python & JavaScript
 - 😄 Pronouns: He/him
